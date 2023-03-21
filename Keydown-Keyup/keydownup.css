@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box {
+    height: 400px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #a4d247;
+    border: 2px solid green;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 5px 13px;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#mouseover {
+    background-color: #c56576;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 4px 11px;
+    border: 2px solid grey;
+    cursor: pointer;
+}

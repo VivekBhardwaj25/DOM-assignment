@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#box {
+   border: 2px solid gray;
+   background-color: #566bc7;
+   padding: 0px 14px;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+#boxes {
+    border: 2px solid gray;
+    background-color: #d235d7;
+    padding: 0px 14px;
+    font-size: 20px;
+    cursor: pointer;
+
+}

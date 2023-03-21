@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#double {
+    border: 2px solid gray;
+    background-color: #25b162;
+    font-size: 20px;
+    padding: 5px 10px;
+    font-weight: 600;
+    cursor: pointer;
+}
